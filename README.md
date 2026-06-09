@@ -1,10 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:0f172a,100:2563eb\&text=Jonatan%20Martínez\&fontColor=ffffff\&fontSize=50\&animation=fadeIn\&fontAlignY=40\&desc=Full%20Stack%20Developer%20|%20Laravel%20|%20CRM%20|%20ERP\&descAlignY=60)
-
-<p align="center">
-	<a href="https://github.com/thedarkfoxs">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%26+PHP+Specialist;CRM+and+ERP+Builder;Software+Architecture+Enthusiast;API+Integrations+Expert;Always+Improving+and+Learning&center=true&width=520&height=45">
-	</a>
-</p>
+<h1 align="center">
+  Hello World, &lt;I'm Jonatan/&gt;!
+</h1>
 
 <pre>
 🏢 Building CRM, ERP and business software platforms
