@@ -35,41 +35,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com)
 
 ---
-
 # 💻 Tech Stack
 
-### 🧠 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,c,html,css&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,c,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode&theme=dark&perline=8" />
 </p>
 
-### ⚙️ Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,vite&theme=dark" />
-</p>
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postman,aws,git,github,vscode&theme=dark" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge" />
 </p>
-
 # 🚀 Featured Projects
 
 ### 📞 LoomSpot CRM
