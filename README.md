@@ -1,131 +1,158 @@
-<!--horizontal divider(gradiant)-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Christian Pose</h1></summary>
-  </ul>
-</div>
-
 <div align="center">
 
-### 🚀 Full Stack Developer | Laravel Specialist
+# 👋 Hi, I'm Jonatan Josué Martínez Cortés
+
+### Full Stack Developer | Laravel Developer | Software Engineering Graduate
 
 Building CRM, ERP and Business Software Solutions
 
 </div>
 
-<br>
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Code • Build • Improve</h2></summary>
-  </ul>
-</div>
+# 💫 About Me
 
-### 👨‍💻 About Me
+💻 Full Stack Developer focused on building scalable business applications and modern web platforms.
 
-* 🔭 Currently working on **CRM and ERP platforms**
-* 🌱 Learning **Software Architecture, DDD and Scalable Systems**
-* ⚙️ Building APIs, Integrations and Automation Tools
-* 🐳 Deploying applications with Docker and AWS
-* 🎨 Passionate about clean UI/UX and maintainable code
-* 📊 Interested in Business Intelligence and Data Analytics
-* 💬 Ask me about **Laravel, Livewire, PHP, APIs, Docker and Databases**
+🚀 Currently working on CRM and ERP systems, API integrations and database architecture.
+
+🏢 Experience developing internal business solutions including CRM migrations, project management systems and quality management platforms.
+
+📚 Passionate about continuous learning, software architecture and creating intuitive user experiences.
+
+🎯 Interested in Backend Development, System Design, Databases and Product Development.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=christianpose2025&theme=tokyonight&show_icons=true&count_private=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=christianpose2025&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianpose2025&layout=compact&theme=tokyonight" />
-
-</p>
+* 🔭 Developing CRM and ERP platforms
+* ⚙️ Designing APIs and external integrations
+* 🗄️ Database architecture and optimization
+* 🎨 Frontend development with React and Laravel
+* 🐳 Dockerized applications and deployment workflows
+* 📊 Business Intelligence and reporting integrations
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🏆 Highlights
+
+🥇 First Place - ExpoCiComp Otoño 2025
+
+🏅 EGEL Plus COMPU - Outstanding Performance
+
+🥉 Top 3 - Hackathon UASLP & Magna 2024
+
+👨‍💻 Technical Frontend Lead in enterprise software projects
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,c,cpp,cs,laravel,php,css,vite,nodejs,mysql,sqlite,mongodb,docker,postman,aws,git,github,vscode&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,nodejs,css,vite,mysql,mongodb,sqlite,docker,postman,git,github,vscode,aws,c&theme=dark&perline=9" />
   </a>
 </p>
 
----
+### Backend
 
-## 💼 Specialized In
+* Laravel
+* PHP
+* Node.js
+* REST APIs
+* MySQL
+* SQL / NoSQL
 
-<div align="center">
+### Frontend
 
-🏢 CRM Development
+* React
+* JavaScript
+* TypeScript
+* CSS
+* Responsive Design
 
-📦 ERP Systems
+### Tools
 
-🔌 API Development & Integrations
-
-⚡ Laravel & Livewire Applications
-
-📊 BI & Reporting Integrations
-
-🐳 Docker Infrastructure
-
-☁️ AWS Services
-
-🗄️ Database Design & Optimization
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 BOS ERP
-
-Enterprise Resource Planning platform focused on inventory, orders and pricing management.
-
-### 📞 LoomSpot CRM
-
-Customer Relationship Management platform with telephony, campaigns and lead management.
-
-### 📤 Export Service
-
-Dedicated NestJS microservice for asynchronous exports and report generation.
+* Docker
+* Postman
+* Git
+* GitHub
+* VS Code
+* DBeaver
+* MySQL Workbench
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
+
+## 📞 LoomSpot CRM
+
+CRM platform migration and modernization project.
+
+* MySQL administration
+* Lead management portal
+* External API integrations
+* CRM auditing and optimization
+
+## 🏢 ClickBos
+
+Project management platform.
+
+* Database architecture design
+* Frontend technical leadership
+* Frontend/Backend integration
+* WhatsApp & Messenger integration using Meta APIs
+
+## 📋 SICAL
+
+Quality Management System.
+
+* Backend module development
+* Database management
+* UI implementation from Figma designs
+
+## 🛒 UNIVENTAS
+
+Web and mobile sales platform.
+
+* Co-Team Lead
+* Database design
+* UI/UX implementation
+* Project planning and technical decisions
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:christianpose2025@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/christianpose2025">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jonatanu24&theme=tokyonight&show_icons=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanu24&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanu24&layout=compact&theme=tokyonight" />
+
 </p>
+
+---
+
+# 🌎 Connect With Me
+
+📧 [jonatanu24mtz@gmail.com](mailto:jonatanu24mtz@gmail.com)
+
+📍 San Luis Potosí, México
+
+💼 Open to software development opportunities and collaborations.
 
 ---
 
 <div align="center">
 
-### 💡 Building software that is scalable, maintainable and enjoyable to use.
+### 💡 "Creating scalable software solutions that solve real business problems."
 
 </div>
-
-<!--horizontal divider(gradiant)-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
