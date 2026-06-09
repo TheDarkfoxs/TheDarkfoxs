@@ -1,153 +1,168 @@
 <div align="center">
 
-# 👋 Hi, I'm Jonatan Josué Martínez Cortés
+<img src="https://raw.githubusercontent.com/gist/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250"/>
 
-### Full Stack Developer | Laravel Developer | Software Engineering Graduate
+# 👋 Hello World! I'm Jonatan Josué Martínez Cortés
 
-Building CRM, ERP and Business Software Solutions
+### 💻 Full Stack Developer | Laravel Developer | CRM & ERP Builder
 
 </div>
 
----
-
 # 💫 About Me
 
-💻 Full Stack Developer focused on building scalable business applications and modern web platforms.
+👨‍💻 Full Stack Developer from San Luis Potosí, México.
 
-🚀 Currently working on CRM and ERP systems, API integrations and database architecture.
+🚀 Currently working on enterprise software solutions, CRM systems, ERP platforms and API integrations.
 
-🏢 Experience developing internal business solutions including CRM migrations, project management systems and quality management platforms.
+🏢 Experience developing business applications such as CRM migrations, project management systems and quality management platforms.
 
-📚 Passionate about continuous learning, software architecture and creating intuitive user experiences.
+🎨 Passionate about creating intuitive interfaces, scalable architectures and software that solves real business problems.
 
-🎯 Interested in Backend Development, System Design, Databases and Product Development.
+📚 Continuous learner focused on software architecture, backend development and modern web technologies.
 
----
+🏆 Top 3 Hackathon UASLP-Magna 2024 participant.
 
-## 🚀 Current Focus
-
-* 🔭 Developing CRM and ERP platforms
-* ⚙️ Designing APIs and external integrations
-* 🗄️ Database architecture and optimization
-* 🎨 Frontend development with React and Laravel
-* 🐳 Dockerized applications and deployment workflows
-* 📊 Business Intelligence and reporting integrations
+🥇 First Place at ExpoCiComp 2025.
 
 ---
 
-## 🏆 Highlights
+## 🌐 Connect With Me
 
-🥇 First Place - ExpoCiComp Otoño 2025
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jonatanu24mtz@gmail.com)
 
-🏅 EGEL Plus COMPU - Outstanding Performance
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github\&logoColor=white)](https://github.com/jonatanu24)
 
-🥉 Top 3 - Hackathon UASLP & Magna 2024
-
-👨‍💻 Technical Frontend Lead in enterprise software projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com)
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,nodejs,css,vite,mysql,mongodb,sqlite,docker,postman,git,github,vscode,aws,c&theme=dark&perline=9" />
-  </a>
-</p>
+### 🧠 Languages
 
-### Backend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
 
-* Laravel
-* PHP
-* Node.js
-* REST APIs
-* MySQL
-* SQL / NoSQL
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 
-### Frontend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
 
-* React
-* JavaScript
-* TypeScript
-* CSS
-* Responsive Design
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 
-### Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
 
-* Docker
-* Postman
-* Git
-* GitHub
-* VS Code
-* DBeaver
-* MySQL Workbench
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat)
 
 ---
 
 # 🚀 Featured Projects
 
-## 📞 LoomSpot CRM
+### 📞 LoomSpot CRM
 
-CRM platform migration and modernization project.
-
-* MySQL administration
+* CRM migration from HubSpot
 * Lead management portal
-* External API integrations
-* CRM auditing and optimization
+* API integrations
+* CRM auditing
+* MySQL administration
 
-## 🏢 ClickBos
+### 🏢 ClickBos
 
-Project management platform.
-
+* Project Management Platform
 * Database architecture design
 * Frontend technical leadership
-* Frontend/Backend integration
-* WhatsApp & Messenger integration using Meta APIs
+* WhatsApp & Messenger integrations through Meta APIs
 
-## 📋 SICAL
+### 📋 SICAL
 
-Quality Management System.
+Quality Management System
 
-* Backend module development
-* Database management
-* UI implementation from Figma designs
+* Backend development
+* Database implementation
+* UI development from Figma designs
 
-## 🛒 UNIVENTAS
+### 🛒 UNIVENTAS
 
-Web and mobile sales platform.
+Web and Mobile Commerce Platform
 
 * Co-Team Lead
 * Database design
-* UI/UX implementation
-* Project planning and technical decisions
+* Responsive UI implementation
+* Technical decision making
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 Achievements
+
+🥇 First Place — ExpoCiComp 2025
+
+🥉 Top 3 — Hackathon UASLP-Magna 2024
+
+🎓 EGEL Plus COMPU — Outstanding Performance
+
+---
+
+# 📈 GitHub History
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonatanu24&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonatanu24&theme=tokyonight&show_icons=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanu24&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanu24&theme=tokyonight"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanu24&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanu24&layout=compact&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🌎 Connect With Me
-
-📧 [jonatanu24mtz@gmail.com](mailto:jonatanu24mtz@gmail.com)
-
-📍 San Luis Potosí, México
-
-💼 Open to software development opportunities and collaborations.
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
