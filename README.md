@@ -4,28 +4,35 @@
 
 <table>
 <tr>
-<td width="38%">
+<td width="35%">
 
-<img src="https://64.media.tumblr.com/0f9e2f1f3f9d6e4e0c4f2f3a9c8f6c7d/tumblr_myl6hoQZbF1s5iyovo1_500.gif" width="100%"/>
+<img src="TU_IMAGEN_AQUI" width="100%">
 
 </td>
 
-<td width="62%">
+<td width="65%">
 
+<pre>
+jonatan@thedarkfoxs
 
-jonatan@thedarkfoxs:~$
+-------------------------
 
 🏢 Building CRM, ERP and business software platforms
-💻 Full Stack Developer specialized in Laravel ecosystem
+💻 Frontend-focused Full Stack Developer
+⚛️ React enthusiast and UI/UX lover
 ⚙️ Designing APIs, integrations and automation workflows
-🗄️ Database architecture, optimization and data modeling
-🚀 Technical lead experience in enterprise software projects
-📞 Experience integrating Meta, WhatsApp, Messenger and external services
-🎨 Focused on creating scalable, maintainable and beautiful software
-🐳 Docker, cloud deployments and modern development workflows
-🌟 Core Stack: Laravel • PHP • JavaScript • TypeScript • React • MySQL
-📚 Continuous learner passionate about software architecture and product design
-🎯 Mission: Transform complex business processes into elegant software solutions
+🗄️ Database architecture and optimization
+🚀 Technical leadership in enterprise software projects
+📞 Meta, WhatsApp and external service integrations
+🐳 Docker, cloud deployments and modern workflows
+🌟 Main Stack: React, Laravel, Livewire, TypeScript, PHP & MySQL
+📚 Passionate about software architecture and product design
+🎯 Building software people actually enjoy using
+</pre>
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
