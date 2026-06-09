@@ -37,7 +37,7 @@ jonatanu24mtz@gmail.com
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,c,cpp,cs,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode,flutter,firebase,godot,unreal,bootstrap,tailwind,linux,androidstudio,windows&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,c,cpp,cs,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode,flutter,firebase,godot,unreal,bootstrap,tailwind,linux,androidstudio,windows&theme=dark&perline=14" />
 </p>
 
 <div align="center">
