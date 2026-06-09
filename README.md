@@ -2,7 +2,19 @@
   Hello World, &lt;I'm Jonatan/&gt;!
 </h1>
 
-<pre>
+<table>
+<tr>
+<td width="38%">
+
+<img src="https://64.media.tumblr.com/0f9e2f1f3f9d6e4e0c4f2f3a9c8f6c7d/tumblr_myl6hoQZbF1s5iyovo1_500.gif" width="100%"/>
+
+</td>
+
+<td width="62%">
+
+
+jonatan@thedarkfoxs:~$
+
 🏢 Building CRM, ERP and business software platforms
 💻 Full Stack Developer specialized in Laravel ecosystem
 ⚙️ Designing APIs, integrations and automation workflows
@@ -14,7 +26,6 @@
 🌟 Core Stack: Laravel • PHP • JavaScript • TypeScript • React • MySQL
 📚 Continuous learner passionate about software architecture and product design
 🎯 Mission: Transform complex business processes into elegant software solutions
-</pre>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
