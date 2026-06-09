@@ -84,7 +84,7 @@ jonatanu24mtz@gmail.com
 ---
 
 <div align="center">
-
-### 💡 "Creating scalable software solutions that solve real business problems."
+  
+"𝔠𝔯𝔢𝔞𝔱𝔢 𝔲𝔯 𝔬𝔴𝔫 𝔯𝔢𝔞𝔩𝔦𝔱𝔶 🦋"
 
 </div>
