@@ -1,14 +1,4 @@
-<!-- Banner -->
-
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:0f172a,100:2563eb\&text=Jonatan%20Mart%C3%ADnez\&fontColor=ffffff\&fontSize=50\&animation=fadeIn\&fontAlignY=40\&desc=Full%20Stack%20Developer%20|%20Laravel%20|%20CRM%20|%20ERP\&descAlignY=60)
-
-<!-- Right image -->
-
-<div>
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴊᴏɴᴀᴛᴀɴ!
+<h1 align="left">Hi! I'm <code>&lt;/Jonatan&gt;</code></h1>
 
 ### *Full Stack Developer (Laravel / React / CRM / ERP)*
 
