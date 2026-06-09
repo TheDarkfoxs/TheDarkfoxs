@@ -1,40 +1,22 @@
-<h1 align="left">Hi! I'm <code>&lt;/Jonatan&gt;</code></h1>
-
-### *Full Stack Developer (Laravel / React / CRM / ERP)*
-
-<br/>
-
-<p align="left">
-
-I am a Full Stack Developer focused on building CRM platforms, ERP systems, business applications and scalable software solutions.
-
+<p align="center">
+	<a href="https://github.com/thedarkfoxs">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%26+PHP+Specialist;CRM+and+ERP+Builder;Software+Architecture+Enthusiast;API+Integrations+Expert;Always+Improving+and+Learning&center=true&width=520&height=45">
+	</a>
 </p>
 
-* 🚀 Currently working on CRM and ERP solutions
-* 🏢 Building business software and internal tools
-* ⚙️ API Integrations & Automation
-* 🐳 Docker & Cloud Deployments
-* 🎨 UI/UX Focused Development
-* 📚 Continuous Learning Enthusiast
-* 💡 Passionate about scalable software architecture
-
-<br clear="right"/>
-
----
-
-## 💻 Aʙᴏᴜᴛ Mᴇ
-
-👨‍💻 Full Stack Developer from San Luis Potosí, México.
-
-🏢 Experience developing business applications including CRM migrations, project management systems, quality management platforms and enterprise software.
-
-⚙️ Specialized in backend development, API integrations, database architecture and business process automation.
-
-🎨 Passionate about creating intuitive user experiences and maintainable software solutions.
-
-📚 Constantly learning and improving my skills in software architecture, system design and modern development practices.
-
----
+<pre>
+🏢 Building CRM, ERP and business software platforms
+💻 Full Stack Developer specialized in Laravel ecosystem
+⚙️ Designing APIs, integrations and automation workflows
+🗄️ Database architecture, optimization and data modeling
+🚀 Technical lead experience in enterprise software projects
+📞 Experience integrating Meta, WhatsApp, Messenger and external services
+🎨 Focused on creating scalable, maintainable and beautiful software
+🐳 Docker, cloud deployments and modern development workflows
+🌟 Core Stack: Laravel • PHP • JavaScript • TypeScript • React • MySQL
+📚 Continuous learner passionate about software architecture and product design
+🎯 Mission: Transform complex business processes into elegant software solutions
+</pre>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
@@ -50,52 +32,6 @@ I am a Full Stack Developer focused on building CRM platforms, ERP systems, busi
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 
 </p>
-
----
-
-<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 🚀</h2>
-
-### 📞 LoomSpot CRM
-
-CRM migration and modernization project.
-
-* Lead management platform
-* MySQL administration
-* External API integrations
-* CRM auditing and optimization
-
----
-
-### 🏢 ClickBos
-
-Project management platform.
-
-* Database architecture design
-* Frontend technical leadership
-* Frontend & backend integration
-* WhatsApp and Messenger integration through Meta APIs
-
----
-
-### 📋 SICAL
-
-Quality Management System.
-
-* Backend development
-* Database implementation
-* UI development from Figma designs
-* Team collaboration and system architecture
-
----
-
-### 🛒 UNIVENTAS
-
-Web and mobile commerce platform.
-
-* Co-Team Lead
-* Database design
-* Responsive UI implementation
-* Technical planning and decision making
 
 ---
 
@@ -134,7 +70,3 @@ Web and mobile commerce platform.
 ### 💡 "Creating scalable software solutions that solve real business problems."
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-</p>
