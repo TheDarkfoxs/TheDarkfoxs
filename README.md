@@ -32,20 +32,24 @@ jonatanu24mtz@gmail.com
 </tr>
 </table>
 
+---
+
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,c,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,c,cpp,cs,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode,flutter,firebase,godot,unreal,bootstrap,tailwind,linux,androidstudio,windows&theme=dark&perline=9" />
 </p>
 
-<p align="center">
+<div align="center">
 
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
 ![Meta API](https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
@@ -71,7 +75,7 @@ jonatanu24mtz@gmail.com
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/jonatan-josue-martinez-cortes">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
