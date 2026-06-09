@@ -24,6 +24,14 @@
 
 ---
 
+<p align="center">
+  <img height="180" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkfoxs&theme=tokyonight&hide_border=true"/>
+
+  <img height="180" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
+
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jonatanu24mtz@gmail.com)
