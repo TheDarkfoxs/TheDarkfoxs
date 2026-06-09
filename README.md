@@ -40,65 +40,35 @@
 
 ### 🧠 Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,c,html,css&theme=dark" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,vite&theme=dark" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
-
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat)
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge" />
+</p>
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+</p>
 
 ### 🧰 Tools & Platforms
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,postman,aws,git,github,vscode&theme=dark" />
+</p>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge" />
+</p>
 
 # 🚀 Featured Projects
 
