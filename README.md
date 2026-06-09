@@ -26,6 +26,16 @@
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gist/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250"/>
+
+# 👋 Hello World! I'm Jonatan Josué Martínez Cortés
+
+### Full Stack Developer | Laravel Developer | CRM & ERP Builder
+
+</div>
+
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jonatanu24mtz@gmail.com)
