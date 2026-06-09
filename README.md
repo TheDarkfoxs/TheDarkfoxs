@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:0f172a,100:2563eb\&text=Jonatan%20Martínez\&fontColor=ffffff\&fontSize=50\&animation=fadeIn\&fontAlignY=40\&desc=Full%20Stack%20Developer%20|%20Laravel%20|%20CRM%20|%20ERP\&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:0f172a,100:2563eb\&text=Jonatan%20Mart%C3%ADnez\&fontColor=ffffff\&fontSize=50\&animation=fadeIn\&fontAlignY=40\&desc=Full%20Stack%20Developer%20|%20Laravel%20|%20CRM%20|%20ERP\&descAlignY=60)
 
 <!-- Right image -->
 
@@ -32,22 +32,30 @@ I am a Full Stack Developer focused on building CRM platforms, ERP systems, busi
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thedarkfoxs&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-</p>
+## 💻 Aʙᴏᴜᴛ Mᴇ
+
+👨‍💻 Full Stack Developer from San Luis Potosí, México.
+
+🏢 Experience developing business applications including CRM migrations, project management systems, quality management platforms and enterprise software.
+
+⚙️ Specialized in backend development, API integrations, database architecture and business process automation.
+
+🎨 Passionate about creating intuitive user experiences and maintainable software solutions.
+
+📚 Constantly learning and improving my skills in software architecture, system design and modern development practices.
 
 ---
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,c,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,c,laravel,php,nodejs,vite,mysql,mongodb,sqlite,docker,postman,aws,git,github,vscode&theme=dark&perline=9" />
 </p>
 
 <p align="center">
 
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
 ![Meta API](https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 
@@ -55,113 +63,59 @@ I am a Full Stack Developer focused on building CRM platforms, ERP systems, busi
 
 ---
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thedarkfoxs&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-<tr>
-
-<td width="50%">
-
-<h3 align="center">Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thedarkfoxs&show_icons=true&theme=tokyonight"/>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Streak</h3>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkfoxs&theme=tokyonight"/>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">Top Languages</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkfoxs&layout=compact&theme=tokyonight"/>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Top Contributions</h3>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=thedarkfoxs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 🚀</h2>
 
 ### 📞 LoomSpot CRM
 
-* CRM migration from HubSpot
-* Lead Management
-* API Integrations
-* MySQL Administration
+CRM migration and modernization project.
+
+* Lead management platform
+* MySQL administration
+* External API integrations
+* CRM auditing and optimization
+
+---
 
 ### 🏢 ClickBos
 
-* Project Management Platform
-* Frontend Technical Lead
-* Meta WhatsApp & Messenger Integration
+Project management platform.
+
+* Database architecture design
+* Frontend technical leadership
+* Frontend & backend integration
+* WhatsApp and Messenger integration through Meta APIs
+
+---
 
 ### 📋 SICAL
 
-* Quality Management System
-* Backend Development
-* Database Design
+Quality Management System.
+
+* Backend development
+* Database implementation
+* UI development from Figma designs
+* Team collaboration and system architecture
+
+---
 
 ### 🛒 UNIVENTAS
 
+Web and mobile commerce platform.
+
 * Co-Team Lead
-* Web & Mobile Platform
-* Responsive UI Development
+* Database design
+* Responsive UI implementation
+* Technical planning and decision making
 
 ---
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">🏆 Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 
-<div align="center">
+🥇 **First Place — ExpoCiComp Otoño 2025**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedarkfoxs&bg_color=0f172a&color=60a5fa&line=3b82f6&point=ffffff&area=true"/>
+🥉 **Top 3 — Hackathon UASLP & Magna 2024**
 
-</div>
-
----
-
-<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
+🎓 **EGEL Plus COMPU — Outstanding Performance**
 
 ---
 
@@ -177,9 +131,19 @@ I am a Full Stack Developer focused on building CRM platforms, ERP systems, busi
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
+
+<div align="center">
+
+### 💡 "Creating scalable software solutions that solve real business problems."
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
