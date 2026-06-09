@@ -13,10 +13,8 @@
 <td width="65%">
 
 <pre>
-jonatan@thedarkfoxs
-
+jonatanu24mtz@gmail.com
 -------------------------
-
 🏢 Building CRM, ERP and business software platforms
 💻 Frontend-focused Full Stack Developer
 ⚛️ React enthusiast and UI/UX lover
