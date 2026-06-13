@@ -45,7 +45,6 @@ jonatanu24mtz@gmail.com
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
 ![Meta API](https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
