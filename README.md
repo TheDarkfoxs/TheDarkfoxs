@@ -48,6 +48,10 @@ jonatanu24mtz@gmail.com
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
+![Stitch](https://img.shields.io/badge/Stitch-000000?style=for-the-badge)
 
 </div>
 
