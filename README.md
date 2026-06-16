@@ -65,13 +65,9 @@ jonatanu24mtz@gmail.com
 <div align="center">
 
   <img src="https://img.shields.io/badge/🥈%20Top%203-Hackathon%20UASLP%20%26%20Magna%202024-%23C0C0C0?style=for-the-badge" />
-
-  <br><br>
-
+  <br>
   <img src="https://img.shields.io/badge/🥇%20First%20Place-ExpoCiComp%20Otoño%202025-%23D4AF37?style=for-the-badge" />
-
-  <br><br>
-
+  <br>
   <img src="https://img.shields.io/badge/💎%20EGEL%20Plus%20COMPU-Outstanding%20Performance-%23B9F2FF?style=for-the-badge" />
 
 </div>
