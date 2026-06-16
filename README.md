@@ -42,13 +42,13 @@ jonatanu24mtz@gmail.com
 
 <div align="center">
 
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
-![Meta API](https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-000000?style=for-the-badge)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
