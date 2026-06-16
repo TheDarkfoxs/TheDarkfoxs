@@ -55,17 +55,17 @@ jonatanu24mtz@gmail.com
 
 </div>
 
----
+<h2 align="left">🏆 Achievements</h2>
 
-<h2 align="center">🏆 Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
+<div align="center">
 
-🥇 **First Place — ExpoCiComp Otoño 2025**
+  <img src="https://img.shields.io/badge/🥇%20First%20Place-ExpoCiComp%20Otoño%202025-gold?style=for-the-badge" />
 
-🥉 **Top 3 — Hackathon UASLP & Magna 2024**
+  <img src="https://img.shields.io/badge/🥉%20Top%203-Hackathon%20UASLP%20%26%20Magna%202024-CD7F32?style=for-the-badge" />
 
-🎓 **EGEL Plus COMPU — Outstanding Performance**
+  <img src="https://img.shields.io/badge/🎓%20EGEL%20Plus%20COMPU-Outstanding%20Performance-blue?style=for-the-badge" />
 
----
+</div>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
