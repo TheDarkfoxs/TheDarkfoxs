@@ -43,7 +43,6 @@ jonatanu24mtz@gmail.com
 <div align="center">
 
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge)
@@ -55,7 +54,23 @@ jonatanu24mtz@gmail.com
 
 </div>
 
-<h2 align="left">🏆 Achievements</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="center">🏆 Trophies & Achievements</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darkfoxs&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darkfoxs&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+
+<br>
 
 <div align="center">
 
@@ -67,6 +82,7 @@ jonatanu24mtz@gmail.com
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
 <div align="center">
