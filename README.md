@@ -67,7 +67,7 @@ jonatanu24mtz@gmail.com
 
 </div>
 
-<h2 align="left"> 🏆 GitHub Trophies </h2> <div align="center"> <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" /> </div> <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" /> </div> -->
+<h2 align="left"> 🏆 GitHub Trophies </h2> <div align="center"> <img src="https://github-trophies.vercel.app/?username=TheDarkfoxs&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" /> </div> <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" /> </div> -->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
