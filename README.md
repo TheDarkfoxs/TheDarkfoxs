@@ -59,15 +59,13 @@ jonatanu24mtz@gmail.com
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/🥇%20First%20Place-ExpoCiComp%20Otoño%202025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇%20First%20Place-ExpoCiComp%20Otoño%202025-%23D4AF37?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/🥉%20Top%203-Hackathon%20UASLP%20%26%20Magna%202024-CD7F32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈%20Top%203-Hackathon%20UASLP%20%26%20Magna%202024-%23C0C0C0?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/🎓%20EGEL%20Plus%20COMPU-Outstanding%20Performance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💎%20EGEL%20Plus%20COMPU-Outstanding%20Performance-%23B9F2FF?style=for-the-badge" />
 
 </div>
-
-<h2 align="left"> 🏆 GitHub Trophies </h2> <div align="center"> <img src="https://github-trophies.vercel.app/?username=TheDarkfoxs&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" /> </div> <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" /> </div> -->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
