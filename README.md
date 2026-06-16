@@ -56,7 +56,7 @@ jonatanu24mtz@gmail.com
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">Tʀᴏᴘʜɪᴇs & Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
+<h2 align="center">Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 
 <p align="center">
   <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
@@ -86,13 +86,19 @@ jonatanu24mtz@gmail.com
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jonatan-josue-martinez-cortes">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="center">Sᴘᴏᴛɪғʏ Nᴏᴡ Pʟᴀʏɪɴɢ</h2>
+
+<div align="center">
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=losacks123&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=39ff14&bar_color_cover=false" />
 </a>
 
 </div>
-
----
 
 <div align="center">
   
