@@ -79,11 +79,11 @@ jonatanu24mtz@gmail.com
 <div align="center">
 
 <a href="mailto:jonatanu24mtz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-jonatanu24mtz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://thedarkfoxs.github.io">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-thedarkfoxs.github.io-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <div align="center">
