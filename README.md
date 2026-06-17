@@ -78,7 +78,7 @@
 <div align="center">
 
 [![GitHub badge](https://img.shields.io/badge/THEDARKFOXS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedarkfoxs)
-[![Gmail badge](https://img.shields.io/badge/JONATANU24MTZ%40GMAIL.COM-c5221f?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Gmail badge]]
 
 <div align="center">
   
