@@ -13,7 +13,6 @@
 <td width="65%">
 
 <pre>
-jonatanu24mtz@gmail.com
 -------------------------
 🏢 Building CRM, ERP and business software platforms
 💻 Frontend-focused Full Stack Developer
@@ -79,7 +78,7 @@ jonatanu24mtz@gmail.com
 <div align="center">
 
 [![GitHub badge](https://img.shields.io/badge/THEDARKFOXS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedarkfoxs)
-[![Gmail badge](https://img.shields.io/badge/JONATANU24MTZ%40GMAIL.COM-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanu24mtz@gmail.com)
+[![Gmail badge](https://img.shields.io/badge/JONATANU24MTZ%40GMAIL.COM-c5221f?style=for-the-badge&logo=gmail&logoColor=white)]
 
 <div align="center">
   
