@@ -78,7 +78,7 @@ jonatanu24mtz@gmail.com
 
 <div align="center">
 
-[![GitHub badge](https://img.shields.io/badge/THEDARKFOXS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedarkfoxs)
+[![GitHub badge](https://img.shields.io/badge/THEDARKFOXS-100000?style=for-the-badge&logo=github&logoColor=white)](https://thedarkfoxs.github.io/)
 [![Gmail badge](https://img.shields.io/badge/jonatanu24mtz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanu24mtz@gmail.com)
 
 <div align="center">
